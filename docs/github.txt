@@ -1,0 +1,18 @@
+- github é uma empresa da microsoft, que fornece serviços de repositório em núvem
+- o que é repositório
+    - local seguro
+        - armazenar os meus arquivos de projeto
+        - backup 2x por dia (pelo menos)
+        - controle de acesso 
+    - controle de versão
+        - voltar em pontos que você salvou (checkpoint)
+        - histórico de versão
+    - colaborativo
+        - varias pessoas juntas
+        - varios lugares do mundo
+- outros concorrentes: TFS, Azure DevOps, Git, SVN, TourtoiseSVN, SourceSafe, BitBucket                        
+- você precisa ter um portfolio
+- como criar uma conta
+- criar um repositório
+- configurar o repositório como pública
+
